@@ -22,7 +22,8 @@ app.post("/add", (req, res) => {
         id += chars.charAt(char);
     }
 
-const website = `<!DOCTYPE html>
+const website = `
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
